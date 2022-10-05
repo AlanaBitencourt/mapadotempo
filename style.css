@@ -1,0 +1,14 @@
+span {
+    background-color: blueviolet;
+    border: 2px solid black;
+}
+
+.conteiner{
+    display: flex;
+   
+}
+
+.move 
+{
+    margin-left: 30vh;
+}
